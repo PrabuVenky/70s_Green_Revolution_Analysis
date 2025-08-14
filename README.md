@@ -1,3 +1,5 @@
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Tableau-blue?style=for-the-badge&logo=tableau)
+
 # 70's Green Revolution Analysis
 
 ## 📌 Overview
