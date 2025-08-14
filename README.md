@@ -10,6 +10,22 @@ This repository contains an analysis of agricultural production data, focusing o
   - Yuba
   - Butte
   - Sutter
+ 
+---
+
+## 📂 Project Structure
+- **data/** – datasets used in the analysis
+- **tableau/** – Tableau dashboard file
+- **README.md** – project documentation
+
+---
+
+## 🛠 Tools Used
+- Tableau
+- Excel
+- GitHub
+
+---
 
 - **Insights:**
   - Sutter has the most diverse crop production.
