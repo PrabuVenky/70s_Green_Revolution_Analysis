@@ -26,8 +26,7 @@ This repository contains an analysis of agricultural production data, focusing o
 - GitHub
 
 ---
-
-- **Insights:**
+## 📈 Key Insights
   - Sutter has the most diverse crop production.
   - Placer records the highest average yield.
   - Rice, Oats and Wheat fueled the Green Revolution
