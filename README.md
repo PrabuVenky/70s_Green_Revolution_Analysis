@@ -14,5 +14,5 @@ This repository contains an analysis of agricultural production data, focusing o
 - **Insights:**
   - Sutter has the most diverse crop production.
   - Placer records the highest average yield.
-  - Wheat All and Wheat Winter All follow similar yield trends over time.
+  - Rice, Oats and Wheat fueled the Green Revolution
 
