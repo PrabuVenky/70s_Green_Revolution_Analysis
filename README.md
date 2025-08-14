@@ -1,2 +1,18 @@
-# 70s_Green_Revolution_Analysis
-This project is a data visualization analysis focusing on agricultural production data across multiple counties.
+# Agricultural Production Data Analysis & Visualization
+
+## 📌 Overview
+This repository contains an analysis of agricultural production data, focusing on county-level performance, crop variety, and yield trends.
+
+## 📊 Key Findings
+- **Top 5 Counties by Production:**
+  - Placer
+  - D60 Sierra Mountains
+  - Yuba
+  - Butte
+  - Sutter
+
+- **Insights:**
+  - Sutter has the most diverse crop production.
+  - Placer records the highest average yield.
+  - Wheat All and Wheat Winter All follow similar yield trends over time.
+
