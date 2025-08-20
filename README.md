@@ -25,6 +25,7 @@ This repository contains an analysis of agricultural production data, focusing o
 ## 🛠 Tools Used
 - Tableau
 - Excel
+- SQL Server
 - GitHub
 
 ---
